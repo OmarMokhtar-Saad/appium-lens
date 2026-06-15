@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Appium Lens" width="120"/>
+<img src="assets/logo.svg" alt="Appium Lens" width="120"/>
 
 # Appium Lens
 
