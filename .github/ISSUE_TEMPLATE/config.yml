@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📧 Email Support
+    url: mailto:support@appiumlens.com
+    about: For private or licensing questions, email us directly.
+  - name: ⭐ Marketplace Reviews
+    url: https://plugins.jetbrains.com/plugin/31156-appium-lens/reviews
+    about: Share your experience and rate the plugin.
